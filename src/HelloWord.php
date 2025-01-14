@@ -9,7 +9,7 @@ class HelloWord
      */
     public function hello(): array
     {
-        echo 'hello v1.1';
+        echo 'hello v1.2';
         return [];
     }
 }
